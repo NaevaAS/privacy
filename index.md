@@ -188,6 +188,6 @@ Please note that this does not mean that we rely on your consent in order to leg
 
 Thank you for taking the time to read this document. If you have questions about these terms or if something is unclear to you, contact us at [privacy@naeva.no](mailto:privacy@naeva.no). 
 
-**I acknowledge, understand and accept the above terms of use:	**
+**I acknowledge, understand and accept the above terms of use:**
 
 **YES [ ]**
