@@ -14,7 +14,7 @@ Below you will find more information about the following:
 *   How and when such data may be shared with others
 *   Your rights in relation your personal data
 
-**About NAEVA **
+**About NAEVA**
 
 NAEVA is a Norwegian technology company that provides electronic devices, software, applications and associated services for our customers, who may for example be construction companies, site or equipment owners or managers, site operators or other businesses. Some examples of our products are electronic crew lists/rosters, access control systems, equipment/machinery/vehicles/property monitoring, training software/games, data analytics, reporting and other similar products. Additional similar services may be added in the future.  
 
@@ -76,7 +76,7 @@ Naeva may also process your personal data for additional secondary purposes, suc
 
 The above purposes are all important parts of the Service, which means that you cannot opt out of any or all of them at this time. If there are opt-out options added at a later time, these can be found in your profile and/or account settings. 
 
-**Personal Data Categories **
+**Personal Data Categories**
 
 When providing the Service we may collect and process several categories of personal data similar to the following:
 
@@ -165,7 +165,7 @@ Your personal data will only ever be stored or accessed in countries that are re
 
 Your personal data may be transmitted digitally or non-digitally between servers, systems, processors, devices, disks, or similar by means of wired or wireless networks or any other data transmission technology that is used at the controlled sites, facilities, locations, equipment, machinery, vehicles, or otherwise in connection the Service. 
 
-**Sharing Data with Third Parties **
+**Sharing Data with Third Parties**
 
 Your data may be shared with third parties when legally required, when required by the customer and when necessary in order to provide the Service. All third party processors or subprocessors engaged by NAEVA will be required to comply with the terms of this document and all applicable data privacy laws and regulation.  
 
