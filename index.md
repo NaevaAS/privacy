@@ -91,7 +91,6 @@ When providing the Service we may collect and process several categories of pers
 
 **Personal Information**
 
-
 *   Full name and any nicknames
 *   Basic contact data, including address, phone number and email
 *   Next of kin and/or emergency contact(s)
@@ -100,10 +99,8 @@ When providing the Service we may collect and process several categories of pers
     *   It is voluntary to provide health data and it is not required to use the Service
     *   If you provide health data, this would be considered explicit consent for the processing of such health data for the purposes of ensuring your health and safety
     *   Contact us at any time if you want to withdraw your consent
-      
 
 **Professional Information**
-
 
 *   Relevant company information about your employer(s), company/companies, and/or customer(s) that are associated with the controlled sites, facilities, locations, equipment, machinery, or vehicles 
 *   Your HSE-card data, including your picture
@@ -111,11 +108,7 @@ When providing the Service we may collect and process several categories of pers
 *   Professional information, including qualifications, certifications, licenses, and line of work
 *   Your rights, privileges, or restrictions with respect to controlled sites, facilities, locations, equipment, machinery, or vehicles
 
-
-
 **Location and Service Data**
-
-
 
 *   Location data and history, including distance travelled, when using the Service or accessing/exiting the controlled sites, facilities, locations, equipment, machinery, or vehicles
 *   Background location when the Service is inactive for the purpose of checking you in or out of a controlled location
