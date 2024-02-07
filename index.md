@@ -14,6 +14,8 @@ Below you will find more information about the following:
 *   How and when such data may be shared with others
 *   Your rights in relation your personal data
 
+---
+
 **About NAEVA**
 
 NAEVA is a Norwegian technology company that provides electronic devices, software, applications and associated services for our customers, who may for example be construction companies, site or equipment owners or managers, site operators or other businesses. Some examples of our products are electronic crew lists/rosters, access control systems, equipment/machinery/vehicles/property monitoring, training software/games, data analytics, reporting and other similar products. Additional similar services may be added in the future.  
@@ -21,6 +23,8 @@ NAEVA is a Norwegian technology company that provides electronic devices, softwa
 For more information about NAEVA, please visit [www.naeva.no](http://www.naeva.no). 
 
 If you have questions about NAEVA or this policy you can reach out to us at [privacy@naeva.no](mailto:privacy@naeva.no).  
+
+---
 
 **Data Privacy Roles**
 
@@ -35,6 +39,8 @@ A **_data processor_** is a party that processes personal data on behalf of the 
 Note that Naeva may also be considered the data controller for certain select uses of the personal data. 
 
 For information about who the data controller is in any specific case, feel free to contact us at [privacy@naeva.no](mailto:privacy@naeva.no).  
+
+---
 
 **Purposes of Personal Data Processing**
 
@@ -76,13 +82,14 @@ Naeva may also process your personal data for additional secondary purposes, suc
 
 The above purposes are all important parts of the Service, which means that you cannot opt out of any or all of them at this time. If there are opt-out options added at a later time, these can be found in your profile and/or account settings. 
 
+---
+
 **Personal Data Categories**
 
 When providing the Service we may collect and process several categories of personal data similar to the following:
 
+
 **Personal Information**
-
-
 
 *   Full name and any nicknames
 *   Basic contact data, including address, phone number and email
@@ -95,8 +102,6 @@ When providing the Service we may collect and process several categories of pers
 
 **Professional Information**
 
-
-
 *   Relevant company information about your employer(s), company/companies, and/or customer(s) that are associated with the controlled sites, facilities, locations, equipment, machinery, or vehicles 
 *   Your HSE-card data, including your picture
 *   Your picture and/or likeness
@@ -104,8 +109,6 @@ When providing the Service we may collect and process several categories of pers
 *   Your rights, privileges, or restrictions with respect to controlled sites, facilities, locations, equipment, machinery, or vehicles
 
 **Location and Service Data**
-
-
 
 *   Location data and history, including distance travelled, when using the Service or accessing/exiting the controlled sites, facilities, locations, equipment, machinery, or vehicles
 *   Background location when the Service is inactive for the purpose of checking you in or out of a controlled location
@@ -117,6 +120,8 @@ When providing the Service we may collect and process several categories of pers
 *   Any communications between yourself and Naeva, including any data privacy related requests or queries 
 
 The above list is not intended to be completely exhaustive. Additional categories of data that are similar to those mentioned above may also be collected. 
+
+---
 
 **Basis of Processing**
 
@@ -132,6 +137,8 @@ We only collect and process your personal data when required or relevant to prov
 
 If you want to know which basis or bases applies in any given instance, you can reach out to us at [privacy@naeva.no](mailto:privacy@naeva.no). 
 
+---
+
 **Your Personal Data Rights**
 
 You have the following rights in relation to our processing of your personal data:
@@ -144,6 +151,8 @@ You have the following rights in relation to our processing of your personal dat
 *   You have the right to obtain a copy of your personal data held by us
 
 If you would like to exercise your rights in relation to personal, or if you have concerns about the collection and processing of your personal data, you may reach out to our Data protection Officer at [privacy@naeva.no](mailto:privacy@naeva.no). Alternatively you can reach out to your local Data Protection Authority for external guidance. 
+
+---
 
 **Personal Data Storage**
 
@@ -161,9 +170,13 @@ Your personal data will be securely stored in line with all applicable legal and
 
 Your personal data will only ever be stored or accessed in countries that are recognized by the European Commission to offer adequate protection of your data. Note that Neave may in some cases use tools and systems from vendors in other countries to deliver the Services, including for example Apple (USA), Samsung (South Korea), Microsoft (USA), and more. 
 
+---
+
 **Personal Data Transmissions**
 
 Your personal data may be transmitted digitally or non-digitally between servers, systems, processors, devices, disks, or similar by means of wired or wireless networks or any other data transmission technology that is used at the controlled sites, facilities, locations, equipment, machinery, vehicles, or otherwise in connection the Service. 
+
+---
 
 **Sharing Data with Third Parties**
 
@@ -172,6 +185,8 @@ Your data may be shared with third parties when legally required, when required 
 NAEVA, the customer or other data processors may be required to disclose certain relevant parts of your data by law, or to protect certain legal rights, or in an emergency where the health or security of a person is endangered. 
 
 Please go to [www.naeva.no/xxxx](http://www.naeva.no/xxxx) (må opprettes) for an updated list of our data processors and subprocessors. 
+
+---
 
 **Terms of Use**
 
