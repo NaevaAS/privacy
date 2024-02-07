@@ -184,8 +184,6 @@ Your data may be shared with third parties when legally required, when required 
 
 NAEVA, the customer or other data processors may be required to disclose certain relevant parts of your data by law, or to protect certain legal rights, or in an emergency where the health or security of a person is endangered. 
 
-Please go to [www.naeva.no/xxxx](http://www.naeva.no/xxxx) (må opprettes) for an updated list of our data processors and subprocessors. 
-
 ---
 
 **Terms of Use**
